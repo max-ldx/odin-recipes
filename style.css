@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue,
+        Adwaita Sans, Cantarell, Ubuntu, roboto, noto, helvetica, arial, sans-serif;
+}
+
+body {
+    padding: 16px;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.link-home {
+    background-color: blueviolet;
+    display: inline-block;
+    padding: 16px 32px;
+    border-radius: 100px;
+}
+
+h1 {
+    background-color: cadetblue;
+    padding: 16px 32px;
+    border-radius: 100px;
+}
+
+img {
+    border-radius: 50px;
+}
+
+h2 {
+    background-color: teal;
+    padding: 16px 32px;
+    border-radius: 100px;
+}
+
+p {
+    padding-left: 32px;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding-left: 48px;
+}
+
+a {
+    color: white;
+}
